@@ -1,4 +1,7 @@
 # gabepalomino.com
+
+![image](https://github.com/gabepalomin/gabepalomino.com/assets/124317093/2d15515b-3c6e-47a4-96fd-51fe99e10e08)
+
 This website was created in a few weeks during the 2024 school semester.
 Feel free to click around and check out the website for yourself!
 [gabepalomino.com](https://gabepalomino.com/#home)
